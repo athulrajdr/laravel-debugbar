@@ -58,7 +58,7 @@ return [
     | Supported: "phpstorm", "vscode", "vscode-insiders", "vscode-remote",
     |            "vscode-insiders-remote", "vscodium", "textmate", "emacs",
     |            "sublime", "atom", "nova", "macvim", "idea", "netbeans",
-    |            "xdebug", "espresso"
+    |            "xdebug", "espresso", "windsurf"
     |
     */
 
